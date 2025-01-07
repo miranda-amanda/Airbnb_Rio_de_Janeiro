@@ -28,3 +28,6 @@ Los datos provienen de la plataforma de Airbnb y contienen información sobre in
 - `reviews_per_month`: Promedio mensual de reseñas.
 - `calculated_host_listings_count`: Número de inmuebles gestionados por el anfitrión.
 - `availability_365`: Disponibilidad del inmueble durante el año.
+
+## Fuente
+https://insideairbnb.com/get-the-data/
