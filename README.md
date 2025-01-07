@@ -1,4 +1,5 @@
 # Análisis Exploratorio de Datos de Inmuebles en Airbnb - Río de Janeiro
+![Texto alternativo](https://raw.githubusercontent.com/miranda-amanda/Airbnb_Rio_de_Janeiro/main/Rio_de_Janeiro.jpg)
 
 Este proyecto realiza un análisis exploratorio de datos (EDA) sobre los inmuebles disponibles en Airbnb en la ciudad de Río de Janeiro, Brasil. El objetivo es explorar la distribución de los precios, la disponibilidad de los inmuebles, las características de los anfitriones y la relación entre diferentes variables, como la ubicación, el tipo de habitación y la cantidad de reseñas. 
 
