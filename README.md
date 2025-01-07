@@ -29,5 +29,6 @@ Los datos provienen de la plataforma de Airbnb y contienen información sobre in
 - `calculated_host_listings_count`: Número de inmuebles gestionados por el anfitrión.
 - `availability_365`: Disponibilidad del inmueble durante el año.
 
-## Fuente
+## Fuentes
 https://insideairbnb.com/get-the-data/
+https://t4logistica.com.br/site/wp-content/uploads/2019/04/banner-rio.jpg
