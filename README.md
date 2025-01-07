@@ -31,4 +31,5 @@ Los datos provienen de la plataforma de Airbnb y contienen información sobre in
 
 ## Fuentes
 https://insideairbnb.com/get-the-data/
+
 https://t4logistica.com.br/site/wp-content/uploads/2019/04/banner-rio.jpg
